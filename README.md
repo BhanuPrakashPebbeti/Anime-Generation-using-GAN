@@ -16,3 +16,4 @@ A generative adversarial network (GAN) has two parts:
 <img src="https://github.com/BhanuPrakashPebbeti/Anime-Generation-using-GAN/blob/main/images/generative-adversarial-network.png" width="800" height="400">
 
  - Both the generator and the discriminator are neural networks. The generator output is connected directly to the discriminator input. Through backpropagation, the discriminator's classification provides a signal that the generator uses to update its weights.
+![training_gif](https://github.com/BhanuPrakashPebbeti/Anime-Generation-using-GAN/blob/main/Training%20results/training.gif)
